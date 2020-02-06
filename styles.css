@@ -1,0 +1,29 @@
+body {
+    background-color: #a3d4bd;
+    margin: 3em;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+input {
+    border-radius: 10px;
+    margin: 5px;
+    display: table-cell;
+}
+label {
+    font-weight: bold;
+    margin: 5px;
+    text-align: right;
+    display: table-cell;
+    padding-right: 1em;
+}
+form {
+    display: table;
+}
+div {
+    display: table-row;
+}
+.std{
+    width: 15em;
+}
